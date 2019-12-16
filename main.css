@@ -1,0 +1,74 @@
+html {
+    background-color: whitesmoke;
+}
+
+
+body {
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #7f7f7f;
+
+}
+
+h1 {
+    font-family: 'Monoton', cursive;
+    color: #000;
+    font-size: 40pt;
+}
+
+a {
+    font-size: 12pt;
+    text-transform: uppercase;
+    padding: 0px 30px 0px 30px;
+    text-decoration: inherit;
+    color: #7f7f7f;
+}
+
+a:hover {
+
+    text-decoration: line-through;
+}
+
+
+p.links {
+    font-size: 12pt;
+    line-height: 15pt;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+p.text {
+
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    margin-bottom: 50px;
+
+
+}
+
+img.jelena {
+    width: 550px;
+}
+
+
+img.banner {
+    width: 760px;
+}
+
+img.icon {
+    width: 50px;
+}
+
+img.gmail-icon {
+    width: 60px;
+    height: 50px;
+}
+
+div.icons {
+    margin-top: 25px;
+}
